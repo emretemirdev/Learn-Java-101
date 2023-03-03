@@ -6,10 +6,10 @@ Vücut kitle indeksi (VKİ), kişinin boy ve kilo ölçüsüne göre belirlenen 
 
 VKİ değerlendirmesi aşağıdaki gibi yapılmaktadır:
 
-VKİ < 18.5: Zayıf
-18.5 ≤ VKİ ≤ 24.9: Normal Kilolu
-25 ≤ VKİ ≤ 29.9: Fazla Kilolu
-30 ≤ VKİ ≤ 34.9: 1. Derece Obez
-35 ≤ VKİ ≤ 39.9: 2. Derece Obez
+VKİ < 18.5: Zayıf <br>
+18.5 ≤ VKİ ≤ 24.9: Normal Kilolu <br>
+25 ≤ VKİ ≤ 29.9: Fazla Kilolu <br>
+30 ≤ VKİ ≤ 34.9: 1. Derece Obez <br>
+35 ≤ VKİ ≤ 39.9: 2. Derece Obez <br>
 VKİ ≥ 40: 3. Derece Obez
 
