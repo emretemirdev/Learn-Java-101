@@ -1,2 +1,1 @@
-# Learn-Java-101
-Small projects I made while learning Java
+Bu kod, bir kahve yapma senaryosuna yönelik örnek bir programdır. Program, KahveKavanozu, SuIsiticisi ve Musluk sınıflarını içermektedir. Kahve yapmak için gerekli olan işlemler, KahveKavanozu sınıfının kahveAl metodu aracılığıyla gerçekleştirilmektedir. Ayrıca, programın hataya karşı dayanıklı olması için try-catch bloğu kullanılmıştır. Bu sayede programın güvenilirliği artırılmıştır.
