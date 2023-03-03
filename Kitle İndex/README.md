@@ -1,4 +1,4 @@
-Vücut Kitle İndeksi Hesaplama
+*Vücut Kitle İndeksi Hesaplama*
 Bu Java programı kullanıcıdan aldığı kilo ve boy değerlerine göre vücut kitle indeksini hesaplar ve sonucuna göre bir yorum yapar.
 
 Vücut Kitle İndeksi Nedir?
